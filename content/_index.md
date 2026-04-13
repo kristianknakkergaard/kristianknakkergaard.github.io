@@ -42,13 +42,17 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        My research centres around quantum many-body physics directly relevant to quantum simulation, many-body quantum optics and nonequilibrium dynamics of atomic gases. At the moment, I am particularly enthusiastic about the ability of quantum simulators to give us completely new insights into far-from-equilibrium dynamics of quantum many-body systems. Here, novel dynamical phenomena discovered over the last decade or so, including Hilbert space fragmentation, quantum many-body scars and many-body localisation, have revealed that quantum systems can organise across all energy scales. This has direct and intriguing consequences for how and when closed quantum systems thermalise.   
 
         Please reach out to collaborate 😃
     design:
       columns: '1'
+  - block: resume-awards
+    content:
+      title: Awards & Grants
+      username: me
+    design:
+      columns: '2'
   - block: collection
     id: papers
     content:
@@ -88,7 +92,7 @@ sections:
       # Page type to display. E.g. post, talk, publication...
       page_type: blog
       # Choose how many pages you would like to display (0 = all pages)
-      count: 10
+      count: 0
       # Filter on criteria
       filters:
         author: ''
