@@ -35,4 +35,4 @@ I have advanced our understanding of doped quantum spin lattices through:
 
 - High-precision tensor network simulations
 - Analytical polaron theory
-- Self-consistent Born approximation for doped two-dimensional magnets
+- Self-consistent Born approximation combined with self-consistent rotating phase approximation for doped two-dimensional magnets
