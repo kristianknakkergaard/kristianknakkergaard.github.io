@@ -22,10 +22,11 @@ I have advanced our understanding of doped quantum spin lattices through:
 - **Analysis of self-similar scaling behavior** in dopant transport dynamics
 - **Magnetic polaron formation** in doped Fermi-Hubbard systems
 - **Dual spectroscopy techniques** for probing quasiparticle excitations in quantum gases
-
+- **Hole and spin dynamics** at finite hole densities
 
 ## Key Publications
 
+- **Callsen, M., Nyhegn, J.H., Nielsen, K.K., Bruun, G.M.** "Hole and spin dynamics in an anti-ferromagnet close to half fillingn" *arXiv:2604.14039* - Uses a conserving self-consistent approximation to study how a 2D antiferromagnet responds to a finite dopant density
 - **Yang, M., Anand, S., Nielsen, K.K.** "Beyond fragmented dopant dynamics in quantum spin lattices: Robust localization and non-Gaussian diffusion" *Physical Review B* (2025) - Comprehensive study of dopant localization and diffusion in quantum spin ladders
 - **Nielsen, K.K.** et al. "Dual Spectroscopy of Quantum Simulated Fermi-Hubbard Systems" *Physical Review Letters* (2025) - Magnetic polaron spectroscopy in doped systems
 - **K.K. Nielsen** et al. "Nonequilibrium Hole Dynamics in Antiferromagnets: Damped Strings and Polarons" *Physical Review Letters* (2022) - Develops a nonperturbative theory for hole dynamics in antiferromagnetic spin lattice, and the associated formation of magnetic polaron quasiparticles. We demonstrate good agreement with state-of-the-art experiments on dopant motion in a two-dimensional Fermi-Hubbard system
