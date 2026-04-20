@@ -1,7 +1,7 @@
 ---
 title: "Far-from-equilibrium Quantum Many-body Dynamics"
-summary: "Understanding quantum systems driven out of equilibrium"
-date: 2026-04-17T00:00:00Z
+summary: "Understanding quantum systems out of equilibrium"
+date: 2026-04-19T00:00:00Z
 type: page
 
 design:
@@ -11,9 +11,9 @@ design:
 Quantum simulators have allowed us to peak into a realm otherwise obscured in traditional materials and enabled novel insights into far-from-equilibrium and non-ergodic dynamics in many-body quantum systems. 
 
 ## Thermalisation in quantum systems
-What does it mean for a closed quantum system to thermalise? By assumption, the system undergoes unitary dynamics described by the Schrödinger equation. Therefore, it is a priori not clear how to even speak about thermalisation in such a context, which classically is tied to chaotic behaviour. 
+What does it mean for a closed quantum system to thermalise? By assumption, the system undergoes unitary dynamics described by the Schrödinger equation. Therefore, it is a priori not clear how to even speak about thermalisation in such a context. 
 
-A deep insight that underpins much of our current understanding of quantum many-body dynamics is the so-called "Eigenstate Thermalisation Hypothesis". It states that, under certain assumptions, a quantum many-body state at a well-defined energy will **locally** be indistinguishable from a **thermal state** with that average thermal energy. Without any particular structure to the system, this gives a mechanism for thermalisation of closed quantum systems. In particular, through many-body dynamics local observables experience dephasing, whereby the long-time behaviour is accurately described by the distribution over the energy states of the system. This effectively describes a steady state that can directly be linked to a thermal ensemble. Only if one probes the system on macroscales, does it become clear that it remains non-thermal. 
+A deep insight that underpins much of our current understanding of quantum many-body dynamics is the so-called "Eigenstate Thermalisation Hypothesis". It states that, under certain assumptions, a quantum many-body state at a well-defined energy will **locally** be indistinguishable from a **thermal state** with that average thermal energy. Without any particular structure to the system, this gives a mechanism for thermalisation of closed quantum systems. In particular, through many-body dynamics local observables experience dephasing, whereby the long-time behaviour is accurately described by the distribution over the energy states of the system. This effectively describes a steady state that can directly be linked to a thermal ensemble. Only if one probes the system on macroscales, does it become clear that it remains pure. 
 
 In many situations, there even exists a deep link between the thermal entropy of the system and its entanglement properties. In particular, the bipartite von Neumann entanglement entropy at energy E can be directly linked to the thermal entropy at that thermal average energy. 
 
@@ -33,7 +33,6 @@ My contributions to understanding far-from-equilibrium dynamics include:
 - **Discovery of symmetry-protected non-ergodic dynamics** in quantum magnets, and associated thermodynamic stability of magnetic domains far from equilibrium
 - **Investigation of dopant thermalization** in quantum spin lattices
 - **Discovery of self-similar scaling** in dopant transport with associated non-Gaussian diffusion. 
-- **Development of numerical methods** for large-scale quantum dynamics
 
 ## Key Publications
 

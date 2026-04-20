@@ -17,7 +17,7 @@ sections:
         ## Research Themes
 
         - **[Quantum Simulation](/research/quantum-simulation/)**: Using controllable quantum systems to model complex quantum phenomena
-        <!-- - **[Far-from-equilibrium Dynamics](/research/far-from-equilibrium-dynamics/)**: Understanding quantum far from equilibrium and their potential non-ergodicity -->
+        - **[Far-from-equilibrium Dynamics](/research/far-from-equilibrium-dynamics/)**: Understanding quantum systems far from equilibrium and their potential non-ergodicity
         - **[Doped Quantum Spin Lattices](/research/doped-quantum-spin-lattices/)**: Impurity physics in magnetic quantum systems
         - **[Quantum Optics](/research/quantum-optics/)**: Light-matter interactions at the quantum level
 ---

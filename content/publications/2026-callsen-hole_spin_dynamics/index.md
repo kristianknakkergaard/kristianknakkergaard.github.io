@@ -3,7 +3,7 @@ title: Hole and spin dynamics in an anti-ferromagnet close to half filling
 authors:
   - Magnus Callsen
   - Jens H. Nyhegn
-  - Kristian Knakkergaard Nielsen
+  - me
   - Georg M. Bruun
 date: 2026-04-15T00:00:00Z
 hugoblox:
