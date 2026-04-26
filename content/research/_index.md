@@ -18,6 +18,7 @@ sections:
 
         - **[Quantum Simulation](/research/quantum-simulation/)**: Using controllable quantum systems to model complex quantum phenomena
         - **[Far-from-equilibrium Dynamics](/research/far-from-equilibrium-dynamics/)**: Understanding quantum systems far from equilibrium and their potential non-ergodicity
-        - **[Doped Quantum Spin Lattices](/research/doped-quantum-spin-lattices/)**: Impurity physics in magnetic quantum systems
+        - **[Doped Quantum Spin Lattices](/research/doped-quantum-spin-lattices/)**: Quantum impurity physics in magnetic systems
         - **[Quantum Optics](/research/quantum-optics/)**: Light-matter interactions at the quantum level
+        - **[Impurities in quantum gases](/research/impurities-in-quantum-gases/)**: Impurities imbedded in highly tunable quantum gases. 
 ---
