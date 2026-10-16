@@ -1,11 +1,12 @@
 ---
-title: "Impurities in quantum gases"
-summary: "Studying impurity models in highly tunable quantum gases."
+title: Impurities in quantum gases
+summary: Studying impurity models in highly tunable quantum gases.
 date: 2026-04-25
 type: page
-
 design:
-  spacing: '3rem'
+  spacing: 3rem
+draft: false
+
 ---
 
 # Quantum gases
